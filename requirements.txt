@@ -1,0 +1,5 @@
+# EvidenceLens - Python dependencies (Java 11+ must also be installed)
+python-terrier
+nltk
+pandas
+streamlit
